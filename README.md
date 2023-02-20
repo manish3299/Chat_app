@@ -1,4 +1,5 @@
 Talk-A-Tive
+
 Talk-a-tive is a Full Stack Chatting App. Uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.
 
 Tech Stack
@@ -25,7 +26,15 @@ Add or Remove users from group
 
 View Other user Profile
 
-References
+References/ Sceenshots
+
+![](https://github.com/manish3299/Chat_app/blob/main/Screenshots/group%20%2B%20notif.png)
+
+![](https://github.com/manish3299/Chat_app/blob/main/Screenshots/mainscreen.png)
+
+![](https://github.com/manish3299/Chat_app/blob/main/Screenshots/new%20grp.png)
+
+![](https://github.com/manish3299/Chat_app/blob/main/Screenshots/search.png)
 
 # Getting Started with Create React App
 
